@@ -7,7 +7,7 @@ export const CardContainer = styled.div`
     border-radius: 3rem;
 
     h1 {
-        font-variant: 2.8rem;
+        font-size: 2.8rem;
         color: ${props => props.theme.white};
         margin-bottom: 1.5rem;
         text-align: center;
